@@ -1,0 +1,81 @@
+﻿import { Milestone } from "@/types";
+
+export const timeline: Milestone[] = [
+  {
+    year: "2026",
+    title: "Global Cybersecurity Distinction Award Nomination",
+    organization: "INE Security & eLearnSecurity (USA)",
+    category: "Recognition",
+    description: "Nominated globally for outstanding performance in the eCPPT v3 Professional program.",
+  },
+  {
+    year: "2026",
+    title: "Outstanding Student Recognition",
+    organization: "Ministry of Higher Education and Scientific Research (Egypt)",
+    category: "Recognition",
+    description: "Official recognition from the Ministry of Higher Education for global achievement in cybersecurity.",
+  },
+  {
+    year: "2026",
+    title: "eCPPT v3",
+    organization: "INE / eLearnSecurity",
+    category: "Certification",
+    description: "eLearnSecurity Certified Professional Penetration Tester v3.",
+  },
+  {
+    year: "2025",
+    title: "CEH",
+    organization: "EC-Council",
+    category: "Certification",
+    description: "Certified Ethical Hacker.",
+  },
+  {
+    year: "2025",
+    title: "eJPT v2",
+    organization: "INE / eLearnSecurity",
+    category: "Certification",
+    description: "eLearnSecurity Junior Penetration Tester v2.",
+  },
+  {
+    year: "2025",
+    title: "eWPT v2",
+    organization: "INE / eLearnSecurity",
+    category: "Certification",
+    description: "eLearnSecurity Web Application Penetration Tester v2.",
+  },
+  {
+    year: "2024",
+    title: "Junior Penetration Tester",
+    organization: "Mazloum Group & PWS",
+    category: "Experience",
+    description: "Web Application & API Penetration Testing.",
+  },
+  {
+    year: "2024",
+    title: "Cybersecurity Experience",
+    organization: "Inovasys",
+    category: "Experience",
+    description: "Professional penetration testing and vulnerability assessments.",
+  },
+  {
+    year: "2023",
+    title: "Cybersecurity Internship",
+    organization: "Duckurity",
+    category: "Internship",
+    description: "Practical web security, API security, penetration testing, OWASP, vulnerability research and security reporting.",
+  },
+  {
+    year: "2023",
+    title: "Security Speaker",
+    organization: "Ask a Senior",
+    category: "Speaker",
+    description: "Delivered talks on cybersecurity concepts and career paths.",
+  },
+  {
+    year: "2023",
+    title: "Cybersecurity Speaker & Community Member",
+    organization: "Tech Nexus",
+    category: "Community",
+    description: "Spoke at Tech Nexus First Edition (Hack • Learn • Connect) and received appreciation awards.",
+  },
+];

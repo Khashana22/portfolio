@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+﻿# Sayed Khashana — Cybersecurity Portfolio
 
-## Getting Started
+**Web Application Penetration Tester | API Security Specialist**
 
-First, run the development server:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sayed-khashana-801bb8238)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-brightgreen?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~017ec48f2803b9c6fa?mp_source=share)
+[![GitHub](https://img.shields.io/badge/GitHub-Khashana22-black?style=flat-square&logo=github)](https://github.com/Khashana22)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I'm **Sayed Khashana**, a Web Application Penetration Tester and API Security Specialist focused on identifying exploitable vulnerabilities, validating real-world impact, and delivering clear remediation guidance.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+My approach: **Offensive Security + Engineering Thinking + Automation + Continuous Research.**
 
-## Learn More
+> *"I break web applications before attackers do."*
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Security Focus
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Area | Description |
+|---|---|
+| **Web Application Security** | OWASP Top 10, Business Logic Flaws, Broken Access Control |
+| **API Security** | REST and GraphQL APIs, OWASP API Top 10, BOLA/IDOR, Mass Assignment |
+| **Penetration Testing** | Black-box, Grey-box, Authenticated assessments |
+| **Vulnerability Research** | CVE analysis, PoC development, responsible disclosure |
+| **Security Automation** | Custom tooling, Nuclei templates, Burp Suite workflows |
+| **Bug Bounty** | Responsible disclosure programs |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Featured Projects
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### [Khashana Pentest Playbook](https://github.com/Khashana22/Pentest-Playbook)
+
+Structured penetration testing methodology and checklist for web and API assessments — covering recon, IDOR, XSS, SSRF, authentication bypasses, and API testing workflows.
+
+**Stack:** Markdown · Bash · Python · Git
+
+---
+
+### API Security Assessment Lab
+
+Custom-built intentionally vulnerable API environment for training and research purposes based on OWASP API Top 10.
+
+**Stack:** Node.js · Express · GraphQL · MongoDB · Docker
+
+---
+
+### AI-Assisted API Pentesting Workflow (Research)
+
+Research exploring LLM integration into the API pentesting workflow for automated reconnaissance and payload generation.
+
+**Stack:** Python · OpenAI API · Burp Suite
+
+---
+
+### Laravel Ignition Information Disclosure (CVE Analysis)
+
+Analysis and non-destructive scanner for information disclosure vulnerabilities in misconfigured Laravel Ignition error pages.
+
+**Stack:** PHP · Laravel · Python · Bash
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| **eCPPT v3** — Professional Penetration Tester | INE / eLearnSecurity | 2026 |
+| **eWPT v2** — Web Application Penetration Tester | INE / eLearnSecurity | 2025 |
+| **eJPT v2** — Junior Penetration Tester | INE / eLearnSecurity | 2025 |
+| **CEH** — Certified Ethical Hacker | EC-Council | 2025 |
+| **OT CyberSecurity Foundations** | Netriders | — |
+| **INE Elite Student** Recognition | INE Security | 2026 |
+
+---
+
+## Recognition
+
+- Global Cybersecurity Distinction Award Nomination — INE Security and eLearnSecurity USA, 2026
+- Outstanding Student Recognition — Ministry of Higher Education and Scientific Research Egypt, 2026
+- DIGITECH Award — Technology recognition for cybersecurity contribution
+- Delta Technological University — Academic recognition for security excellence
+
+---
+
+## Speaking
+
+| Event | Role |
+|---|---|
+| Tech Nexus — First Edition (Hack Learn Connect) | Security Speaker |
+| Ask a Senior | Security Speaker |
+
+---
+
+## Tech Stack
+
+**Security:** Burp Suite · Nuclei · Nmap · OWASP ZAP · Metasploit
+**Languages:** Python · Bash · JavaScript · TypeScript · PHP
+**Portfolio:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Framer Motion
+
+---
+
+## Contact
+
+| Platform | Link |
+|---|---|
+| Email | syedkhashana22@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/sayed-khashana-801bb8238 |
+| Upwork | https://www.upwork.com/freelancers/~017ec48f2803b9c6fa?mp_source=share |
+| GitHub | https://github.com/Khashana22 |
+
+---
+
+*Find it. Prove it. Fix it.*
