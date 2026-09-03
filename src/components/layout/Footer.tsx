@@ -42,7 +42,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href={"mailto:"} aria-label="Email" className="text-slate-400 hover:text-white flex items-center gap-2 transition-colors text-sm">
+                <a href={`mailto:${siteConfig.email}`} aria-label="Email" className="text-slate-400 hover:text-white flex items-center gap-2 transition-colors text-sm">
                   <Mail size={15} /> Email
                 </a>
               </li>

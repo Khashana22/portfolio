@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { motion } from "motion/react";
 import { SectionTitle, SectionWrapper, Card } from "@/components/ui";
@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function About({ className }: { className?: string }) {
   return (
-    <SectionWrapper className={className}>
+    <SectionWrapper id="about" className={className}>
       <SectionTitle title="Behind the Security Researcher" />
       
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8 items-center">

@@ -41,7 +41,7 @@ const severityColors = {
 
 export default function SecurityResearch({ className }: { className?: string }) {
   return (
-    <SectionWrapper className={className}>
+    <SectionWrapper id="research" className={className}>
       <SectionTitle title="Security Research" />
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
