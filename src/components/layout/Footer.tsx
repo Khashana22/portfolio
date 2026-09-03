@@ -1,4 +1,4 @@
-﻿import Link from "next/link";
+import Link from "next/link";
 import { GitBranch, Link2, Mail, Shield } from "lucide-react";
 import { siteConfig } from "@/data/siteConfig";
 
@@ -72,7 +72,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-slate-600">
-          <p>&copy; {new Date().getFullYear()} {siteConfig.name}. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} {siteConfig.name}. All rights reserved.</p>
           <p className="font-mono text-xs">Finding weaknesses. Proving impact. Improving security.</p>
         </div>
       </div>

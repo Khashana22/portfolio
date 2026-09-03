@@ -34,21 +34,15 @@ export default function Hero() {
           </div>
 
           <div className="flex flex-wrap gap-4 pt-4">
-            <a href={`mailto:${siteConfig.email}`}>
-              <Button >
-                Request a Security Assessment
-              </Button>
-            </a>
-            <a href="#projects">
-              <Button >
-                View My Security Work
-              </Button>
-            </a>
-            <a href={siteConfig.resumeUrl} target="_blank" rel="noopener noreferrer">
-              <Button >
-                Download Resume
-              </Button>
-            </a>
+            <Button href={`mailto:${siteConfig.email}`}>
+              Request a Security Assessment
+            </Button>
+            <Button variant="secondary" href="#work">
+              View My Security Work
+            </Button>
+            <Button variant="outline" href={siteConfig.resumeUrl}>
+              Download Resume
+            </Button>
           </div>
         </div>
 

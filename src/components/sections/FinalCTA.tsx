@@ -22,10 +22,10 @@ export default function FinalCTA({ className }: { className?: string }) {
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
           {/* Note: In a real implementation, Button would likely accept an href prop if it renders an anchor, or use a Next.js Link wrapper. 
               Here we just render Buttons assuming standard component API. */}
-          <Button className="w-full sm:w-auto px-8 py-3 rounded-lg bg-cyan-600 hover:bg-cyan-500 text-white font-medium">
+          <Button href="#contact" className="w-full sm:w-auto px-8 py-3 rounded-lg bg-cyan-600 hover:bg-cyan-500 text-white font-medium">
             Start a Security Assessment
           </Button>
-          <Button className="w-full sm:w-auto px-8 py-3 rounded-lg border border-cyan-500/30 text-cyan-400 hover:bg-cyan-950/30 font-medium">
+          <Button href="#work" className="w-full sm:w-auto px-8 py-3 rounded-lg border border-cyan-500/30 text-cyan-400 hover:bg-cyan-950/30 font-medium">
             View My Security Work
           </Button>
         </div>

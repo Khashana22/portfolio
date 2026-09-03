@@ -50,7 +50,7 @@ export default function ClientProblems() {
           viewport={{ once: true }}
           transition={{ delay: 0.6 }}
         >
-          <Button variant="primary" size="lg" className="group">
+          <Button href="#contact" variant="primary" size="lg" className="group">
             Let's Test That Assumption
             <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
           </Button>
